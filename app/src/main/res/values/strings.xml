@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Social Sphere</string>
+    <string name="name">Name</string>
+    <string name="design_by_nvaibhav_tormal">Design By\nVaibhav Tormal</string>
+    <string name="share_your_story_nwith_us">Share your story \nwith us</string>
+    <string name="login">Login</string>
+    <string name="new_here">New Here</string>
+    <string name="register">Register</string>
+    <string name="enter_your_email">Enter Your Email...!</string>
+    <string name="password">Password</string>
+    <string name="enter_your_name">Enter Your Name..!</string>
+    <string name="enter_your_password">Enter Your Password..!</string>
+    <string name="new_feed">New Feed</string>
+    <string name="read_more">Read More</string>
+    <string name="add_post">Add Post</string>
+    <string name="i_recently_read_a_helpful_article_on_hashnode_by_simon_egersand_titled_write_git_commit_messages_your_colleagues_will_love_and_it_inspired_me_to_dive_a_little_deeper_into_understanding_what_makes_a_git_commit_good_or_bad">I recently read a helpful article on Hashnode by Simon Egersand titled Write Git Commit Messages Your Colleagues Will Love, and it inspired me to dive a little deeper into understanding what makes a Git commit good or bad</string>
+    <string name="please_start_writing_better_git_commits">Please Start Writing Better Git Commits</string>
+</resources>

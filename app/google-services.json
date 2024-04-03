@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473213760951",
+    "project_id": "social-sphere-accc7",
+    "storage_bucket": "social-sphere-accc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473213760951:android:7dcceb5c3b915ce11fa432",
+        "android_client_info": {
+          "package_name": "com.vaibhav.socialsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqqbB_SJ0pyFLHU3Mu1IK54e9WSHDrWoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
